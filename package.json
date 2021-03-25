@@ -1,0 +1,25 @@
+{
+  "name": "npm-init-package",
+  "version": "1.0.0",
+  "description": "package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vaishakk14/ProjectWedDev.git"
+  },
+  "keywords": [
+    "package",
+    "package.json",
+    "npm",
+    "init"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vaishakk14/ProjectWedDev/issues"
+  },
+  "homepage": "https://github.com/Vaishakk14/ProjectWedDev#readme"
+}
